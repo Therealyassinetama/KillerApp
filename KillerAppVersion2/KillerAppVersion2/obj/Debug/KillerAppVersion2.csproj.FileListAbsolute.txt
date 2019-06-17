@@ -1,0 +1,11 @@
+D:\school\S1\P2\FUN\KillerApp\KillerAppVersion2\KillerAppVersion2\bin\Debug\KillerAppVersion2.exe.config
+D:\school\S1\P2\FUN\KillerApp\KillerAppVersion2\KillerAppVersion2\bin\Debug\KillerAppVersion2.exe
+D:\school\S1\P2\FUN\KillerApp\KillerAppVersion2\KillerAppVersion2\bin\Debug\KillerAppVersion2.pdb
+D:\school\S1\P2\FUN\KillerApp\KillerAppVersion2\KillerAppVersion2\obj\Debug\KillerAppVersion2.csprojAssemblyReference.cache
+D:\school\S1\P2\FUN\KillerApp\KillerAppVersion2\KillerAppVersion2\obj\Debug\KillerAppVersion2.Form1.resources
+D:\school\S1\P2\FUN\KillerApp\KillerAppVersion2\KillerAppVersion2\obj\Debug\KillerAppVersion2.Form2.resources
+D:\school\S1\P2\FUN\KillerApp\KillerAppVersion2\KillerAppVersion2\obj\Debug\KillerAppVersion2.Properties.Resources.resources
+D:\school\S1\P2\FUN\KillerApp\KillerAppVersion2\KillerAppVersion2\obj\Debug\KillerAppVersion2.csproj.GenerateResource.cache
+D:\school\S1\P2\FUN\KillerApp\KillerAppVersion2\KillerAppVersion2\obj\Debug\KillerAppVersion2.csproj.CoreCompileInputs.cache
+D:\school\S1\P2\FUN\KillerApp\KillerAppVersion2\KillerAppVersion2\obj\Debug\KillerAppVersion2.exe
+D:\school\S1\P2\FUN\KillerApp\KillerAppVersion2\KillerAppVersion2\obj\Debug\KillerAppVersion2.pdb
